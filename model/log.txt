@@ -1,0 +1,807 @@
+Epoch 0/499 : Mon May  6 00:37:19 2019 - 0h 1m
+----------
+
+train Loss: 13.5245 Epoch Acc: 0.00E+00 Epoch Prob: 2.47E-12 Best Probability: 0.00E+00
+Model saved
+val Loss: 12.9849 Epoch Acc: 0.00E+00 Epoch Prob: 1.54E-41 Best Probability: 1.54E-41
+Epoch 1/499 : Mon May  6 00:41:23 2019 - 0h 5m
+----------
+
+train Loss: 12.0284 Epoch Acc: 0.00E+00 Epoch Prob: 2.01E-12 Best Probability: 1.54E-41
+val Loss: 10.6367 Epoch Acc: 0.00E+00 Epoch Prob: 5.07E-42 Best Probability: 1.54E-41
+Epoch 2/499 : Mon May  6 00:45:26 2019 - 0h 9m
+----------
+
+train Loss: 10.1723 Epoch Acc: 0.00E+00 Epoch Prob: 4.11E-12 Best Probability: 1.54E-41
+Model saved
+val Loss: 8.7090 Epoch Acc: 0.00E+00 Epoch Prob: 4.31E-34 Best Probability: 4.31E-34
+Epoch 3/499 : Mon May  6 00:49:28 2019 - 0h 13m
+----------
+
+train Loss: 8.1463 Epoch Acc: 0.00E+00 Epoch Prob: 6.80E-09 Best Probability: 4.31E-34
+val Loss: 6.5201 Epoch Acc: 0.00E+00 Epoch Prob: 7.64E-36 Best Probability: 4.31E-34
+Epoch 4/499 : Mon May  6 00:53:27 2019 - 0h 17m
+----------
+
+train Loss: 6.2881 Epoch Acc: 0.00E+00 Epoch Prob: 1.66E-08 Best Probability: 4.31E-34
+Model saved
+val Loss: 5.8130 Epoch Acc: 0.00E+00 Epoch Prob: 4.47E-34 Best Probability: 4.47E-34
+Checkpoint saved
+Epoch 5/499 : Mon May  6 00:57:26 2019 - 0h 21m
+----------
+
+train Loss: 5.1468 Epoch Acc: 0.00E+00 Epoch Prob: 8.51E-08 Best Probability: 4.47E-34
+val Loss: 5.0283 Epoch Acc: 0.00E+00 Epoch Prob: 3.76E-37 Best Probability: 4.47E-34
+Epoch 6/499 : Mon May  6 01:01:35 2019 - 0h 25m
+----------
+
+train Loss: 4.4817 Epoch Acc: 0.00E+00 Epoch Prob: 2.95E-07 Best Probability: 4.47E-34
+val Loss: 4.6259 Epoch Acc: 0.00E+00 Epoch Prob: 8.40E-39 Best Probability: 4.47E-34
+Epoch 7/499 : Mon May  6 01:05:45 2019 - 0h 29m
+----------
+
+train Loss: 4.0335 Epoch Acc: 0.00E+00 Epoch Prob: 1.37E-06 Best Probability: 4.47E-34
+val Loss: 4.6177 Epoch Acc: 0.00E+00 Epoch Prob: 2.83E-40 Best Probability: 4.47E-34
+Epoch 8/499 : Mon May  6 01:10:02 2019 - 0h 33m
+----------
+
+train Loss: 3.6870 Epoch Acc: 0.00E+00 Epoch Prob: 2.04E-06 Best Probability: 4.47E-34
+val Loss: 4.0657 Epoch Acc: 0.00E+00 Epoch Prob: 7.44E-41 Best Probability: 4.47E-34
+Epoch 9/499 : Mon May  6 01:14:19 2019 - 0h 38m
+----------
+
+train Loss: 3.4315 Epoch Acc: 0.00E+00 Epoch Prob: 1.71E-06 Best Probability: 4.47E-34
+Model saved
+val Loss: 3.9475 Epoch Acc: 0.00E+00 Epoch Prob: 3.75E-33 Best Probability: 3.75E-33
+Checkpoint saved
+Epoch 10/499 : Mon May  6 01:18:27 2019 - 0h 42m
+----------
+
+train Loss: 3.2371 Epoch Acc: 4.00E-05 Epoch Prob: 4.05E-06 Best Probability: 3.75E-33
+val Loss: 4.3602 Epoch Acc: 0.00E+00 Epoch Prob: 1.20E-42 Best Probability: 3.75E-33
+Epoch 11/499 : Mon May  6 01:22:24 2019 - 0h 46m
+----------
+
+train Loss: 3.0759 Epoch Acc: 4.00E-05 Epoch Prob: 3.76E-06 Best Probability: 3.75E-33
+val Loss: 3.8442 Epoch Acc: 0.00E+00 Epoch Prob: 8.77E-41 Best Probability: 3.75E-33
+Epoch 12/499 : Mon May  6 01:26:27 2019 - 0h 50m
+----------
+
+train Loss: 2.9491 Epoch Acc: 4.00E-05 Epoch Prob: 1.34E-06 Best Probability: 3.75E-33
+val Loss: 3.7702 Epoch Acc: 0.00E+00 Epoch Prob: 2.62E-41 Best Probability: 3.75E-33
+Epoch 13/499 : Mon May  6 01:30:36 2019 - 0h 54m
+----------
+
+train Loss: 2.8598 Epoch Acc: 0.00E+00 Epoch Prob: 2.68E-06 Best Probability: 3.75E-33
+val Loss: 3.6099 Epoch Acc: 0.00E+00 Epoch Prob: 2.13E-37 Best Probability: 3.75E-33
+Epoch 14/499 : Mon May  6 01:34:39 2019 - 0h 58m
+----------
+
+train Loss: 2.7537 Epoch Acc: 0.00E+00 Epoch Prob: 2.28E-06 Best Probability: 3.75E-33
+val Loss: 4.0723 Epoch Acc: 0.00E+00 Epoch Prob: 2.58E-38 Best Probability: 3.75E-33
+Checkpoint saved
+Epoch 15/499 : Mon May  6 01:38:42 2019 - 1h 2m
+----------
+
+train Loss: 2.6316 Epoch Acc: 1.20E-04 Epoch Prob: 1.18E-05 Best Probability: 3.75E-33
+val Loss: 3.7231 Epoch Acc: 0.00E+00 Epoch Prob: 9.59E-34 Best Probability: 3.75E-33
+Epoch 16/499 : Mon May  6 01:42:41 2019 - 1h 6m
+----------
+
+train Loss: 2.5661 Epoch Acc: 4.00E-05 Epoch Prob: 7.29E-06 Best Probability: 3.75E-33
+val Loss: 3.5709 Epoch Acc: 0.00E+00 Epoch Prob: 3.37E-44 Best Probability: 3.75E-33
+Epoch 17/499 : Mon May  6 01:46:39 2019 - 1h 10m
+----------
+
+train Loss: 2.5018 Epoch Acc: 4.00E-05 Epoch Prob: 9.62E-06 Best Probability: 3.75E-33
+val Loss: 3.4430 Epoch Acc: 0.00E+00 Epoch Prob: 1.74E-37 Best Probability: 3.75E-33
+Epoch 18/499 : Mon May  6 01:50:36 2019 - 1h 14m
+----------
+
+train Loss: 2.4358 Epoch Acc: 8.00E-05 Epoch Prob: 1.27E-05 Best Probability: 3.75E-33
+val Loss: 3.7141 Epoch Acc: 0.00E+00 Epoch Prob: 2.11E-42 Best Probability: 3.75E-33
+Epoch 19/499 : Mon May  6 01:54:33 2019 - 1h 18m
+----------
+
+train Loss: 2.3829 Epoch Acc: 8.00E-05 Epoch Prob: 1.27E-05 Best Probability: 3.75E-33
+val Loss: 3.4793 Epoch Acc: 0.00E+00 Epoch Prob: 5.09E-40 Best Probability: 3.75E-33
+Checkpoint saved
+Epoch 20/499 : Mon May  6 01:58:29 2019 - 1h 22m
+----------
+
+train Loss: 2.3164 Epoch Acc: 0.00E+00 Epoch Prob: 1.81E-06 Best Probability: 3.75E-33
+val Loss: 3.6628 Epoch Acc: 0.00E+00 Epoch Prob: 4.17E-41 Best Probability: 3.75E-33
+Epoch 21/499 : Mon May  6 02:02:28 2019 - 1h 26m
+----------
+
+train Loss: 2.2937 Epoch Acc: 8.00E-05 Epoch Prob: 1.56E-05 Best Probability: 3.75E-33
+val Loss: 3.5793 Epoch Acc: 0.00E+00 Epoch Prob: 1.28E-35 Best Probability: 3.75E-33
+Epoch 22/499 : Mon May  6 02:06:25 2019 - 1h 30m
+----------
+
+train Loss: 2.2587 Epoch Acc: 4.00E-05 Epoch Prob: 6.60E-06 Best Probability: 3.75E-33
+val Loss: 3.5123 Epoch Acc: 0.00E+00 Epoch Prob: 7.91E-42 Best Probability: 3.75E-33
+Epoch 23/499 : Mon May  6 02:10:23 2019 - 1h 34m
+----------
+
+train Loss: 2.2808 Epoch Acc: 0.00E+00 Epoch Prob: 8.55E-06 Best Probability: 3.75E-33
+val Loss: 3.5989 Epoch Acc: 0.00E+00 Epoch Prob: 7.73E-34 Best Probability: 3.75E-33
+Epoch 24/499 : Mon May  6 02:14:19 2019 - 1h 38m
+----------
+
+train Loss: 2.1638 Epoch Acc: 4.00E-05 Epoch Prob: 9.57E-06 Best Probability: 3.75E-33
+val Loss: 3.5592 Epoch Acc: 0.00E+00 Epoch Prob: 6.28E-39 Best Probability: 3.75E-33
+Checkpoint saved
+Epoch 25/499 : Mon May  6 02:18:17 2019 - 1h 42m
+----------
+
+train Loss: 2.0918 Epoch Acc: 8.00E-05 Epoch Prob: 2.35E-05 Best Probability: 3.75E-33
+val Loss: 3.6044 Epoch Acc: 0.00E+00 Epoch Prob: 3.20E-42 Best Probability: 3.75E-33
+Epoch 26/499 : Mon May  6 02:22:15 2019 - 1h 46m
+----------
+
+train Loss: 2.0797 Epoch Acc: 4.00E-05 Epoch Prob: 1.18E-05 Best Probability: 3.75E-33
+val Loss: 3.5963 Epoch Acc: 0.00E+00 Epoch Prob: 3.14E-35 Best Probability: 3.75E-33
+Epoch 27/499 : Mon May  6 02:26:11 2019 - 1h 50m
+----------
+
+train Loss: 2.0464 Epoch Acc: 0.00E+00 Epoch Prob: 3.74E-06 Best Probability: 3.75E-33
+val Loss: 3.4560 Epoch Acc: 0.00E+00 Epoch Prob: 8.15E-50 Best Probability: 3.75E-33
+Epoch 28/499 : Mon May  6 02:30:09 2019 - 1h 54m
+----------
+
+train Loss: 2.0305 Epoch Acc: 1.20E-04 Epoch Prob: 3.45E-05 Best Probability: 3.75E-33
+val Loss: 3.5678 Epoch Acc: 0.00E+00 Epoch Prob: 2.73E-35 Best Probability: 3.75E-33
+Epoch 29/499 : Mon May  6 02:34:06 2019 - 1h 58m
+----------
+
+train Loss: 2.0294 Epoch Acc: 8.00E-05 Epoch Prob: 2.27E-05 Best Probability: 3.75E-33
+val Loss: 3.8638 Epoch Acc: 0.00E+00 Epoch Prob: 1.50E-33 Best Probability: 3.75E-33
+Checkpoint saved
+Epoch 30/499 : Mon May  6 02:38:05 2019 - 2h 2m
+----------
+
+train Loss: 1.9973 Epoch Acc: 1.20E-04 Epoch Prob: 1.73E-05 Best Probability: 3.75E-33
+val Loss: 3.6051 Epoch Acc: 0.00E+00 Epoch Prob: 1.89E-35 Best Probability: 3.75E-33
+Epoch 31/499 : Mon May  6 02:42:03 2019 - 2h 6m
+----------
+
+train Loss: 2.0034 Epoch Acc: 4.00E-05 Epoch Prob: 1.56E-05 Best Probability: 3.75E-33
+val Loss: 3.6052 Epoch Acc: 0.00E+00 Epoch Prob: 2.45E-43 Best Probability: 3.75E-33
+Epoch 32/499 : Mon May  6 02:46:01 2019 - 2h 9m
+----------
+
+train Loss: 1.9486 Epoch Acc: 8.00E-05 Epoch Prob: 1.91E-05 Best Probability: 3.75E-33
+val Loss: 3.4934 Epoch Acc: 0.00E+00 Epoch Prob: 2.04E-38 Best Probability: 3.75E-33
+Epoch 33/499 : Mon May  6 02:49:58 2019 - 2h 13m
+----------
+
+train Loss: 1.9751 Epoch Acc: 0.00E+00 Epoch Prob: 4.07E-06 Best Probability: 3.75E-33
+val Loss: 3.5196 Epoch Acc: 0.00E+00 Epoch Prob: 1.08E-35 Best Probability: 3.75E-33
+Epoch 34/499 : Mon May  6 02:53:56 2019 - 2h 17m
+----------
+
+train Loss: 1.9208 Epoch Acc: 8.00E-05 Epoch Prob: 2.25E-05 Best Probability: 3.75E-33
+Model saved
+val Loss: 3.5291 Epoch Acc: 0.00E+00 Epoch Prob: 5.40E-33 Best Probability: 5.40E-33
+Checkpoint saved
+Epoch 35/499 : Mon May  6 02:57:53 2019 - 2h 21m
+----------
+
+train Loss: 1.9295 Epoch Acc: 8.00E-05 Epoch Prob: 2.27E-05 Best Probability: 5.40E-33
+val Loss: 3.6178 Epoch Acc: 0.00E+00 Epoch Prob: 7.62E-39 Best Probability: 5.40E-33
+Epoch 36/499 : Mon May  6 03:01:50 2019 - 2h 25m
+----------
+
+train Loss: 1.8895 Epoch Acc: 4.00E-05 Epoch Prob: 1.12E-05 Best Probability: 5.40E-33
+val Loss: 3.6061 Epoch Acc: 0.00E+00 Epoch Prob: 2.70E-44 Best Probability: 5.40E-33
+Epoch 37/499 : Mon May  6 03:05:47 2019 - 2h 29m
+----------
+
+train Loss: 1.8413 Epoch Acc: 1.20E-04 Epoch Prob: 1.82E-05 Best Probability: 5.40E-33
+val Loss: 3.5223 Epoch Acc: 0.00E+00 Epoch Prob: 1.35E-42 Best Probability: 5.40E-33
+Epoch 38/499 : Mon May  6 03:09:44 2019 - 2h 33m
+----------
+
+train Loss: 1.8348 Epoch Acc: 4.00E-05 Epoch Prob: 1.93E-05 Best Probability: 5.40E-33
+val Loss: 3.3887 Epoch Acc: 0.00E+00 Epoch Prob: 1.51E-46 Best Probability: 5.40E-33
+Epoch 39/499 : Mon May  6 03:13:41 2019 - 2h 37m
+----------
+
+train Loss: 1.8185 Epoch Acc: 4.00E-05 Epoch Prob: 1.94E-05 Best Probability: 5.40E-33
+val Loss: 3.6206 Epoch Acc: 0.00E+00 Epoch Prob: 3.23E-42 Best Probability: 5.40E-33
+Checkpoint saved
+Epoch 40/499 : Mon May  6 03:17:38 2019 - 2h 41m
+----------
+
+train Loss: 1.7957 Epoch Acc: 4.00E-05 Epoch Prob: 1.12E-05 Best Probability: 5.40E-33
+val Loss: 3.3984 Epoch Acc: 0.00E+00 Epoch Prob: 3.14E-45 Best Probability: 5.40E-33
+Epoch 41/499 : Mon May  6 03:21:34 2019 - 2h 45m
+----------
+
+train Loss: 1.8300 Epoch Acc: 8.00E-05 Epoch Prob: 2.01E-05 Best Probability: 5.40E-33
+val Loss: 3.6216 Epoch Acc: 0.00E+00 Epoch Prob: 5.70E-43 Best Probability: 5.40E-33
+Epoch 42/499 : Mon May  6 03:25:31 2019 - 2h 49m
+----------
+
+train Loss: 1.8173 Epoch Acc: 4.00E-05 Epoch Prob: 1.24E-05 Best Probability: 5.40E-33
+val Loss: 3.4523 Epoch Acc: 0.00E+00 Epoch Prob: 1.22E-41 Best Probability: 5.40E-33
+Epoch 43/499 : Mon May  6 03:29:29 2019 - 2h 53m
+----------
+
+train Loss: 1.7549 Epoch Acc: 1.20E-04 Epoch Prob: 1.83E-05 Best Probability: 5.40E-33
+val Loss: 3.7197 Epoch Acc: 0.00E+00 Epoch Prob: 4.35E-42 Best Probability: 5.40E-33
+Epoch 44/499 : Mon May  6 03:33:26 2019 - 2h 57m
+----------
+
+train Loss: 1.7773 Epoch Acc: 4.00E-05 Epoch Prob: 2.25E-05 Best Probability: 5.40E-33
+val Loss: 3.4479 Epoch Acc: 0.00E+00 Epoch Prob: 3.83E-37 Best Probability: 5.40E-33
+Checkpoint saved
+Epoch 45/499 : Mon May  6 03:37:23 2019 - 3h 1m
+----------
+
+train Loss: 1.7423 Epoch Acc: 1.20E-04 Epoch Prob: 1.92E-05 Best Probability: 5.40E-33
+val Loss: 3.5696 Epoch Acc: 0.00E+00 Epoch Prob: 7.54E-43 Best Probability: 5.40E-33
+Epoch 46/499 : Mon May  6 03:41:21 2019 - 3h 5m
+----------
+
+train Loss: 1.7674 Epoch Acc: 1.20E-04 Epoch Prob: 2.72E-05 Best Probability: 5.40E-33
+val Loss: 3.5063 Epoch Acc: 0.00E+00 Epoch Prob: 7.59E-45 Best Probability: 5.40E-33
+Epoch 47/499 : Mon May  6 03:45:18 2019 - 3h 9m
+----------
+
+train Loss: 1.7217 Epoch Acc: 1.20E-04 Epoch Prob: 3.21E-05 Best Probability: 5.40E-33
+val Loss: 3.6545 Epoch Acc: 0.00E+00 Epoch Prob: 8.06E-43 Best Probability: 5.40E-33
+Epoch 48/499 : Mon May  6 03:49:15 2019 - 3h 13m
+----------
+
+train Loss: 1.6903 Epoch Acc: 1.20E-04 Epoch Prob: 2.63E-05 Best Probability: 5.40E-33
+val Loss: 3.5030 Epoch Acc: 0.00E+00 Epoch Prob: 5.01E-45 Best Probability: 5.40E-33
+Epoch 49/499 : Mon May  6 03:53:12 2019 - 3h 17m
+----------
+
+train Loss: 1.7682 Epoch Acc: 4.00E-05 Epoch Prob: 2.23E-05 Best Probability: 5.40E-33
+val Loss: 3.7451 Epoch Acc: 0.00E+00 Epoch Prob: 7.82E-45 Best Probability: 5.40E-33
+Checkpoint saved
+Epoch 50/499 : Mon May  6 03:57:09 2019 - 3h 21m
+----------
+
+train Loss: 1.7088 Epoch Acc: 1.20E-04 Epoch Prob: 2.59E-05 Best Probability: 5.40E-33
+val Loss: 3.5731 Epoch Acc: 0.00E+00 Epoch Prob: 6.45E-41 Best Probability: 5.40E-33
+Epoch 51/499 : Mon May  6 04:01:05 2019 - 3h 25m
+----------
+
+train Loss: 1.6598 Epoch Acc: 1.20E-04 Epoch Prob: 4.60E-05 Best Probability: 5.40E-33
+val Loss: 3.5398 Epoch Acc: 0.00E+00 Epoch Prob: 8.18E-37 Best Probability: 5.40E-33
+Epoch 52/499 : Mon May  6 04:05:03 2019 - 3h 29m
+----------
+
+train Loss: 1.7044 Epoch Acc: 1.20E-04 Epoch Prob: 3.22E-05 Best Probability: 5.40E-33
+val Loss: 3.8149 Epoch Acc: 0.00E+00 Epoch Prob: 1.04E-41 Best Probability: 5.40E-33
+Epoch 53/499 : Mon May  6 04:09:01 2019 - 3h 32m
+----------
+
+train Loss: 1.6878 Epoch Acc: 1.60E-04 Epoch Prob: 6.00E-05 Best Probability: 5.40E-33
+val Loss: 3.4971 Epoch Acc: 0.00E+00 Epoch Prob: 7.94E-41 Best Probability: 5.40E-33
+Epoch 54/499 : Mon May  6 04:13:06 2019 - 3h 37m
+----------
+
+train Loss: 1.6497 Epoch Acc: 0.00E+00 Epoch Prob: 1.57E-05 Best Probability: 5.40E-33
+val Loss: 3.5330 Epoch Acc: 0.00E+00 Epoch Prob: 2.02E-39 Best Probability: 5.40E-33
+Checkpoint saved
+Epoch 55/499 : Mon May  6 04:17:03 2019 - 3h 41m
+----------
+
+train Loss: 1.6528 Epoch Acc: 0.00E+00 Epoch Prob: 1.82E-05 Best Probability: 5.40E-33
+val Loss: 3.5109 Epoch Acc: 0.00E+00 Epoch Prob: 8.55E-45 Best Probability: 5.40E-33
+Epoch 56/499 : Mon May  6 04:21:00 2019 - 3h 44m
+----------
+
+train Loss: 1.6765 Epoch Acc: 8.00E-05 Epoch Prob: 2.23E-05 Best Probability: 5.40E-33
+val Loss: 3.5355 Epoch Acc: 0.00E+00 Epoch Prob: 7.51E-40 Best Probability: 5.40E-33
+Epoch 57/499 : Mon May  6 04:24:57 2019 - 3h 48m
+----------
+
+train Loss: 1.6437 Epoch Acc: 1.20E-04 Epoch Prob: 3.58E-05 Best Probability: 5.40E-33
+val Loss: 3.6439 Epoch Acc: 0.00E+00 Epoch Prob: 1.31E-36 Best Probability: 5.40E-33
+Epoch 58/499 : Mon May  6 04:28:55 2019 - 3h 52m
+----------
+
+train Loss: 1.6610 Epoch Acc: 8.00E-05 Epoch Prob: 2.48E-05 Best Probability: 5.40E-33
+val Loss: 3.5923 Epoch Acc: 0.00E+00 Epoch Prob: 2.64E-46 Best Probability: 5.40E-33
+Epoch 59/499 : Mon May  6 04:32:52 2019 - 3h 56m
+----------
+
+train Loss: 1.5809 Epoch Acc: 1.20E-04 Epoch Prob: 5.20E-05 Best Probability: 5.40E-33
+Model saved
+val Loss: 3.5474 Epoch Acc: 0.00E+00 Epoch Prob: 3.69E-26 Best Probability: 3.69E-26
+Checkpoint saved
+Epoch 60/499 : Mon May  6 04:36:50 2019 - 4h 0m
+----------
+
+train Loss: 1.6632 Epoch Acc: 4.00E-05 Epoch Prob: 2.40E-05 Best Probability: 3.69E-26
+val Loss: 3.4201 Epoch Acc: 0.00E+00 Epoch Prob: 4.97E-42 Best Probability: 3.69E-26
+Epoch 61/499 : Mon May  6 04:40:48 2019 - 4h 4m
+----------
+
+train Loss: 1.6619 Epoch Acc: 4.00E-05 Epoch Prob: 2.11E-05 Best Probability: 3.69E-26
+val Loss: 3.4644 Epoch Acc: 0.00E+00 Epoch Prob: 1.01E-40 Best Probability: 3.69E-26
+Epoch 62/499 : Mon May  6 04:44:45 2019 - 4h 8m
+----------
+
+train Loss: 1.5871 Epoch Acc: 4.00E-05 Epoch Prob: 3.21E-05 Best Probability: 3.69E-26
+val Loss: 3.5785 Epoch Acc: 0.00E+00 Epoch Prob: 4.17E-46 Best Probability: 3.69E-26
+Epoch 63/499 : Mon May  6 04:48:41 2019 - 4h 12m
+----------
+
+train Loss: 1.5992 Epoch Acc: 1.20E-04 Epoch Prob: 4.88E-05 Best Probability: 3.69E-26
+val Loss: 3.5894 Epoch Acc: 0.00E+00 Epoch Prob: 1.60E-46 Best Probability: 3.69E-26
+Epoch 64/499 : Mon May  6 04:52:37 2019 - 4h 16m
+----------
+
+train Loss: 1.5911 Epoch Acc: 4.00E-05 Epoch Prob: 2.15E-05 Best Probability: 3.69E-26
+val Loss: 3.6487 Epoch Acc: 0.00E+00 Epoch Prob: 7.54E-42 Best Probability: 3.69E-26
+Checkpoint saved
+Epoch 65/499 : Mon May  6 04:56:34 2019 - 4h 20m
+----------
+
+train Loss: 1.6045 Epoch Acc: 0.00E+00 Epoch Prob: 2.04E-05 Best Probability: 3.69E-26
+val Loss: 3.6421 Epoch Acc: 0.00E+00 Epoch Prob: 8.05E-42 Best Probability: 3.69E-26
+Epoch 66/499 : Mon May  6 05:00:31 2019 - 4h 24m
+----------
+
+train Loss: 1.5662 Epoch Acc: 8.00E-05 Epoch Prob: 4.33E-05 Best Probability: 3.69E-26
+val Loss: 3.6220 Epoch Acc: 0.00E+00 Epoch Prob: 1.40E-41 Best Probability: 3.69E-26
+Epoch 67/499 : Mon May  6 05:04:29 2019 - 4h 28m
+----------
+
+train Loss: 1.6057 Epoch Acc: 0.00E+00 Epoch Prob: 1.17E-05 Best Probability: 3.69E-26
+val Loss: 3.5829 Epoch Acc: 0.00E+00 Epoch Prob: 7.86E-39 Best Probability: 3.69E-26
+Epoch 68/499 : Mon May  6 05:08:26 2019 - 4h 32m
+----------
+
+train Loss: 1.6403 Epoch Acc: 8.00E-05 Epoch Prob: 2.97E-05 Best Probability: 3.69E-26
+val Loss: 3.6226 Epoch Acc: 0.00E+00 Epoch Prob: 6.54E-35 Best Probability: 3.69E-26
+Epoch 69/499 : Mon May  6 05:12:23 2019 - 4h 36m
+----------
+
+train Loss: 1.5482 Epoch Acc: 4.00E-05 Epoch Prob: 2.54E-05 Best Probability: 3.69E-26
+val Loss: 3.6123 Epoch Acc: 0.00E+00 Epoch Prob: 2.69E-47 Best Probability: 3.69E-26
+Checkpoint saved
+Epoch 70/499 : Mon May  6 05:16:20 2019 - 4h 40m
+----------
+
+train Loss: 1.5632 Epoch Acc: 1.20E-04 Epoch Prob: 2.91E-05 Best Probability: 3.69E-26
+val Loss: 3.5817 Epoch Acc: 0.00E+00 Epoch Prob: 2.37E-42 Best Probability: 3.69E-26
+Epoch 71/499 : Mon May  6 05:20:17 2019 - 4h 44m
+----------
+
+train Loss: 1.5653 Epoch Acc: 8.00E-05 Epoch Prob: 3.62E-05 Best Probability: 3.69E-26
+val Loss: 3.4877 Epoch Acc: 0.00E+00 Epoch Prob: 9.41E-41 Best Probability: 3.69E-26
+Epoch 72/499 : Mon May  6 05:24:15 2019 - 4h 48m
+----------
+
+train Loss: 1.5492 Epoch Acc: 1.20E-04 Epoch Prob: 3.75E-05 Best Probability: 3.69E-26
+val Loss: 3.4936 Epoch Acc: 0.00E+00 Epoch Prob: 9.23E-44 Best Probability: 3.69E-26
+Epoch 73/499 : Mon May  6 05:28:12 2019 - 4h 52m
+----------
+
+train Loss: 1.5527 Epoch Acc: 4.00E-05 Epoch Prob: 2.75E-05 Best Probability: 3.69E-26
+val Loss: 3.5195 Epoch Acc: 0.00E+00 Epoch Prob: 6.75E-36 Best Probability: 3.69E-26
+Epoch 74/499 : Mon May  6 05:32:09 2019 - 4h 56m
+----------
+
+train Loss: 1.5502 Epoch Acc: 1.20E-04 Epoch Prob: 5.83E-05 Best Probability: 3.69E-26
+val Loss: 3.5808 Epoch Acc: 0.00E+00 Epoch Prob: 8.36E-44 Best Probability: 3.69E-26
+Checkpoint saved
+Epoch 75/499 : Mon May  6 05:36:06 2019 - 5h 0m
+----------
+
+train Loss: 1.5337 Epoch Acc: 4.00E-05 Epoch Prob: 2.77E-05 Best Probability: 3.69E-26
+val Loss: 3.6496 Epoch Acc: 0.00E+00 Epoch Prob: 2.66E-45 Best Probability: 3.69E-26
+Epoch 76/499 : Mon May  6 05:40:02 2019 - 5h 3m
+----------
+
+train Loss: 1.5415 Epoch Acc: 4.00E-05 Epoch Prob: 1.32E-05 Best Probability: 3.69E-26
+val Loss: 3.6926 Epoch Acc: 0.00E+00 Epoch Prob: 3.15E-35 Best Probability: 3.69E-26
+Epoch 77/499 : Mon May  6 05:43:59 2019 - 5h 7m
+----------
+
+train Loss: 1.5306 Epoch Acc: 1.20E-04 Epoch Prob: 5.12E-05 Best Probability: 3.69E-26
+val Loss: 3.6326 Epoch Acc: 0.00E+00 Epoch Prob: 1.85E-45 Best Probability: 3.69E-26
+Epoch 78/499 : Mon May  6 05:47:57 2019 - 5h 11m
+----------
+
+train Loss: 1.5758 Epoch Acc: 4.00E-05 Epoch Prob: 3.40E-05 Best Probability: 3.69E-26
+val Loss: 3.7256 Epoch Acc: 0.00E+00 Epoch Prob: 8.96E-38 Best Probability: 3.69E-26
+Epoch 79/499 : Mon May  6 05:51:54 2019 - 5h 15m
+----------
+
+train Loss: 1.5553 Epoch Acc: 8.00E-05 Epoch Prob: 2.46E-05 Best Probability: 3.69E-26
+val Loss: 3.6884 Epoch Acc: 0.00E+00 Epoch Prob: 1.55E-44 Best Probability: 3.69E-26
+Checkpoint saved
+Epoch 80/499 : Mon May  6 05:55:51 2019 - 5h 19m
+----------
+
+train Loss: 1.5191 Epoch Acc: 1.20E-04 Epoch Prob: 4.03E-05 Best Probability: 3.69E-26
+val Loss: 3.5710 Epoch Acc: 0.00E+00 Epoch Prob: 5.15E-45 Best Probability: 3.69E-26
+Epoch 81/499 : Mon May  6 05:59:48 2019 - 5h 23m
+----------
+
+train Loss: 1.5313 Epoch Acc: 8.00E-05 Epoch Prob: 1.98E-05 Best Probability: 3.69E-26
+val Loss: 3.7801 Epoch Acc: 0.00E+00 Epoch Prob: 1.23E-42 Best Probability: 3.69E-26
+Epoch 82/499 : Mon May  6 06:03:44 2019 - 5h 27m
+----------
+
+train Loss: 1.5250 Epoch Acc: 8.00E-05 Epoch Prob: 2.05E-05 Best Probability: 3.69E-26
+val Loss: 3.6509 Epoch Acc: 0.00E+00 Epoch Prob: 1.18E-36 Best Probability: 3.69E-26
+Epoch 83/499 : Mon May  6 06:07:41 2019 - 5h 31m
+----------
+
+train Loss: 1.4984 Epoch Acc: 1.20E-04 Epoch Prob: 4.09E-05 Best Probability: 3.69E-26
+val Loss: 3.5460 Epoch Acc: 0.00E+00 Epoch Prob: 1.76E-44 Best Probability: 3.69E-26
+Epoch 84/499 : Mon May  6 06:11:38 2019 - 5h 35m
+----------
+
+train Loss: 1.5040 Epoch Acc: 8.00E-05 Epoch Prob: 2.38E-05 Best Probability: 3.69E-26
+val Loss: 3.5643 Epoch Acc: 0.00E+00 Epoch Prob: 2.16E-42 Best Probability: 3.69E-26
+Checkpoint saved
+Epoch 85/499 : Mon May  6 06:15:35 2019 - 5h 39m
+----------
+
+train Loss: 1.5269 Epoch Acc: 0.00E+00 Epoch Prob: 5.51E-06 Best Probability: 3.69E-26
+val Loss: 3.5305 Epoch Acc: 0.00E+00 Epoch Prob: 8.62E-40 Best Probability: 3.69E-26
+Epoch 86/499 : Mon May  6 06:19:33 2019 - 5h 43m
+----------
+
+train Loss: 1.5130 Epoch Acc: 4.00E-05 Epoch Prob: 1.55E-05 Best Probability: 3.69E-26
+val Loss: 3.6732 Epoch Acc: 0.00E+00 Epoch Prob: 1.51E-40 Best Probability: 3.69E-26
+Epoch 87/499 : Mon May  6 06:23:31 2019 - 5h 47m
+----------
+
+train Loss: 1.4911 Epoch Acc: 8.00E-05 Epoch Prob: 3.10E-05 Best Probability: 3.69E-26
+val Loss: 3.5212 Epoch Acc: 0.00E+00 Epoch Prob: 7.55E-46 Best Probability: 3.69E-26
+Epoch 88/499 : Mon May  6 06:27:28 2019 - 5h 51m
+----------
+
+train Loss: 1.4835 Epoch Acc: 1.20E-04 Epoch Prob: 3.43E-05 Best Probability: 3.69E-26
+val Loss: 3.6061 Epoch Acc: 0.00E+00 Epoch Prob: 8.38E-45 Best Probability: 3.69E-26
+Epoch 89/499 : Mon May  6 06:31:26 2019 - 5h 55m
+----------
+
+train Loss: 1.4896 Epoch Acc: 8.00E-05 Epoch Prob: 2.43E-05 Best Probability: 3.69E-26
+val Loss: 3.5651 Epoch Acc: 0.00E+00 Epoch Prob: 3.24E-45 Best Probability: 3.69E-26
+Checkpoint saved
+Epoch 90/499 : Mon May  6 06:35:24 2019 - 5h 59m
+----------
+
+train Loss: 1.5187 Epoch Acc: 4.00E-05 Epoch Prob: 2.17E-05 Best Probability: 3.69E-26
+val Loss: 3.5704 Epoch Acc: 0.00E+00 Epoch Prob: 2.31E-43 Best Probability: 3.69E-26
+Epoch 91/499 : Mon May  6 06:39:20 2019 - 6h 3m
+----------
+
+train Loss: 1.4731 Epoch Acc: 1.20E-04 Epoch Prob: 4.33E-05 Best Probability: 3.69E-26
+val Loss: 3.5533 Epoch Acc: 0.00E+00 Epoch Prob: 1.55E-43 Best Probability: 3.69E-26
+Epoch 92/499 : Mon May  6 06:43:16 2019 - 6h 7m
+----------
+
+train Loss: 1.4638 Epoch Acc: 4.00E-05 Epoch Prob: 3.28E-05 Best Probability: 3.69E-26
+val Loss: 3.5659 Epoch Acc: 0.00E+00 Epoch Prob: 2.82E-46 Best Probability: 3.69E-26
+Epoch 93/499 : Mon May  6 06:47:13 2019 - 6h 11m
+----------
+
+train Loss: 1.4588 Epoch Acc: 1.20E-04 Epoch Prob: 3.48E-05 Best Probability: 3.69E-26
+val Loss: 3.6398 Epoch Acc: 0.00E+00 Epoch Prob: 1.53E-40 Best Probability: 3.69E-26
+Epoch 94/499 : Mon May  6 06:51:11 2019 - 6h 15m
+----------
+
+train Loss: 1.5446 Epoch Acc: 8.00E-05 Epoch Prob: 1.90E-05 Best Probability: 3.69E-26
+val Loss: 3.5338 Epoch Acc: 0.00E+00 Epoch Prob: 1.29E-44 Best Probability: 3.69E-26
+Checkpoint saved
+Epoch 95/499 : Mon May  6 06:55:08 2019 - 6h 19m
+----------
+
+train Loss: 1.4781 Epoch Acc: 1.20E-04 Epoch Prob: 3.18E-05 Best Probability: 3.69E-26
+val Loss: 3.5874 Epoch Acc: 0.00E+00 Epoch Prob: 1.20E-44 Best Probability: 3.69E-26
+Epoch 96/499 : Mon May  6 06:59:05 2019 - 6h 23m
+----------
+
+train Loss: 1.4751 Epoch Acc: 8.00E-05 Epoch Prob: 4.05E-05 Best Probability: 3.69E-26
+val Loss: 3.6004 Epoch Acc: 0.00E+00 Epoch Prob: 4.53E-51 Best Probability: 3.69E-26
+Epoch 97/499 : Mon May  6 07:03:04 2019 - 6h 27m
+----------
+
+train Loss: 1.4830 Epoch Acc: 8.00E-05 Epoch Prob: 3.83E-05 Best Probability: 3.69E-26
+val Loss: 3.5074 Epoch Acc: 0.00E+00 Epoch Prob: 5.12E-52 Best Probability: 3.69E-26
+Epoch 98/499 : Mon May  6 07:07:01 2019 - 6h 30m
+----------
+
+train Loss: 1.4427 Epoch Acc: 4.00E-05 Epoch Prob: 2.22E-05 Best Probability: 3.69E-26
+val Loss: 3.4462 Epoch Acc: 0.00E+00 Epoch Prob: 5.47E-51 Best Probability: 3.69E-26
+Epoch 99/499 : Mon May  6 07:10:58 2019 - 6h 34m
+----------
+
+train Loss: 1.4862 Epoch Acc: 4.00E-05 Epoch Prob: 1.68E-05 Best Probability: 3.69E-26
+val Loss: 3.5406 Epoch Acc: 0.00E+00 Epoch Prob: 2.30E-48 Best Probability: 3.69E-26
+Checkpoint saved
+Epoch 100/499 : Mon May  6 07:14:55 2019 - 6h 38m
+----------
+
+train Loss: 1.4055 Epoch Acc: 1.60E-04 Epoch Prob: 3.23E-05 Best Probability: 3.69E-26
+val Loss: 3.6205 Epoch Acc: 0.00E+00 Epoch Prob: 6.84E-42 Best Probability: 3.69E-26
+Epoch 101/499 : Mon May  6 07:18:52 2019 - 6h 42m
+----------
+
+train Loss: 1.4503 Epoch Acc: 4.00E-05 Epoch Prob: 1.48E-05 Best Probability: 3.69E-26
+val Loss: 3.5578 Epoch Acc: 0.00E+00 Epoch Prob: 3.00E-46 Best Probability: 3.69E-26
+Epoch 102/499 : Mon May  6 07:22:49 2019 - 6h 46m
+----------
+
+train Loss: 1.4842 Epoch Acc: 4.00E-05 Epoch Prob: 1.33E-05 Best Probability: 3.69E-26
+val Loss: 3.5920 Epoch Acc: 0.00E+00 Epoch Prob: 1.73E-47 Best Probability: 3.69E-26
+Epoch 103/499 : Mon May  6 07:26:46 2019 - 6h 50m
+----------
+
+train Loss: 1.4513 Epoch Acc: 1.60E-04 Epoch Prob: 5.34E-05 Best Probability: 3.69E-26
+val Loss: 3.5334 Epoch Acc: 0.00E+00 Epoch Prob: 4.98E-48 Best Probability: 3.69E-26
+Epoch 104/499 : Mon May  6 07:30:43 2019 - 6h 54m
+----------
+
+train Loss: 1.4241 Epoch Acc: 8.00E-05 Epoch Prob: 2.96E-05 Best Probability: 3.69E-26
+val Loss: 3.7639 Epoch Acc: 0.00E+00 Epoch Prob: 1.56E-44 Best Probability: 3.69E-26
+Checkpoint saved
+Epoch 105/499 : Mon May  6 07:34:40 2019 - 6h 58m
+----------
+
+train Loss: 1.4921 Epoch Acc: 1.20E-04 Epoch Prob: 2.51E-05 Best Probability: 3.69E-26
+val Loss: 3.6176 Epoch Acc: 0.00E+00 Epoch Prob: 1.88E-37 Best Probability: 3.69E-26
+Epoch 106/499 : Mon May  6 07:38:37 2019 - 7h 2m
+----------
+
+train Loss: 1.4170 Epoch Acc: 8.00E-05 Epoch Prob: 3.14E-05 Best Probability: 3.69E-26
+val Loss: 3.7253 Epoch Acc: 0.00E+00 Epoch Prob: 2.95E-46 Best Probability: 3.69E-26
+Epoch 107/499 : Mon May  6 07:42:34 2019 - 7h 6m
+----------
+
+train Loss: 1.4311 Epoch Acc: 8.00E-05 Epoch Prob: 2.33E-05 Best Probability: 3.69E-26
+val Loss: 3.5711 Epoch Acc: 0.00E+00 Epoch Prob: 2.61E-39 Best Probability: 3.69E-26
+Epoch 108/499 : Mon May  6 07:46:32 2019 - 7h 10m
+----------
+
+train Loss: 1.4794 Epoch Acc: 1.20E-04 Epoch Prob: 3.89E-05 Best Probability: 3.69E-26
+val Loss: 3.5317 Epoch Acc: 0.00E+00 Epoch Prob: 3.46E-39 Best Probability: 3.69E-26
+Epoch 109/499 : Mon May  6 07:50:30 2019 - 7h 14m
+----------
+
+train Loss: 1.4992 Epoch Acc: 2.00E-04 Epoch Prob: 7.18E-05 Best Probability: 3.69E-26
+val Loss: 3.5622 Epoch Acc: 0.00E+00 Epoch Prob: 8.08E-41 Best Probability: 3.69E-26
+Checkpoint saved
+Epoch 110/499 : Mon May  6 07:54:28 2019 - 7h 18m
+----------
+
+train Loss: 1.3763 Epoch Acc: 8.00E-05 Epoch Prob: 3.72E-05 Best Probability: 3.69E-26
+val Loss: 3.5225 Epoch Acc: 0.00E+00 Epoch Prob: 4.55E-39 Best Probability: 3.69E-26
+Epoch 111/499 : Mon May  6 07:58:25 2019 - 7h 22m
+----------
+
+train Loss: 1.4263 Epoch Acc: 8.00E-05 Epoch Prob: 2.61E-05 Best Probability: 3.69E-26
+val Loss: 3.6544 Epoch Acc: 0.00E+00 Epoch Prob: 5.32E-45 Best Probability: 3.69E-26
+Epoch 112/499 : Mon May  6 08:02:22 2019 - 7h 26m
+----------
+
+train Loss: 1.4241 Epoch Acc: 8.00E-05 Epoch Prob: 3.94E-05 Best Probability: 3.69E-26
+val Loss: 3.5462 Epoch Acc: 0.00E+00 Epoch Prob: 6.27E-41 Best Probability: 3.69E-26
+Epoch 113/499 : Mon May  6 08:06:19 2019 - 7h 30m
+----------
+
+train Loss: 1.4474 Epoch Acc: 8.00E-05 Epoch Prob: 1.67E-05 Best Probability: 3.69E-26
+val Loss: 3.5621 Epoch Acc: 0.00E+00 Epoch Prob: 1.64E-43 Best Probability: 3.69E-26
+Epoch 114/499 : Mon May  6 08:10:17 2019 - 7h 34m
+----------
+
+train Loss: 1.4107 Epoch Acc: 2.00E-04 Epoch Prob: 7.01E-05 Best Probability: 3.69E-26
+val Loss: 3.5711 Epoch Acc: 0.00E+00 Epoch Prob: 1.77E-38 Best Probability: 3.69E-26
+Checkpoint saved
+Epoch 115/499 : Mon May  6 08:14:14 2019 - 7h 38m
+----------
+
+train Loss: 1.4708 Epoch Acc: 0.00E+00 Epoch Prob: 1.19E-05 Best Probability: 3.69E-26
+val Loss: 3.6602 Epoch Acc: 0.00E+00 Epoch Prob: 2.68E-44 Best Probability: 3.69E-26
+Epoch 116/499 : Mon May  6 08:18:11 2019 - 7h 42m
+----------
+
+train Loss: 1.4333 Epoch Acc: 8.00E-05 Epoch Prob: 4.10E-05 Best Probability: 3.69E-26
+val Loss: 3.5862 Epoch Acc: 0.00E+00 Epoch Prob: 7.31E-38 Best Probability: 3.69E-26
+Epoch 117/499 : Mon May  6 08:22:08 2019 - 7h 46m
+----------
+
+train Loss: 1.4585 Epoch Acc: 8.00E-05 Epoch Prob: 1.82E-05 Best Probability: 3.69E-26
+val Loss: 3.6687 Epoch Acc: 0.00E+00 Epoch Prob: 2.65E-45 Best Probability: 3.69E-26
+Epoch 118/499 : Mon May  6 08:26:05 2019 - 7h 50m
+----------
+
+train Loss: 1.4198 Epoch Acc: 0.00E+00 Epoch Prob: 6.08E-06 Best Probability: 3.69E-26
+val Loss: 3.5997 Epoch Acc: 0.00E+00 Epoch Prob: 4.16E-41 Best Probability: 3.69E-26
+Epoch 119/499 : Mon May  6 08:30:02 2019 - 7h 53m
+----------
+
+train Loss: 1.3985 Epoch Acc: 1.20E-04 Epoch Prob: 2.49E-05 Best Probability: 3.69E-26
+val Loss: 3.5806 Epoch Acc: 0.00E+00 Epoch Prob: 1.02E-40 Best Probability: 3.69E-26
+Checkpoint saved
+Epoch 120/499 : Mon May  6 08:33:59 2019 - 7h 57m
+----------
+
+train Loss: 1.3734 Epoch Acc: 8.00E-05 Epoch Prob: 2.75E-05 Best Probability: 3.69E-26
+val Loss: 3.5233 Epoch Acc: 0.00E+00 Epoch Prob: 1.69E-40 Best Probability: 3.69E-26
+Epoch 121/499 : Mon May  6 08:37:56 2019 - 8h 1m
+----------
+
+train Loss: 1.4136 Epoch Acc: 4.00E-05 Epoch Prob: 1.06E-05 Best Probability: 3.69E-26
+val Loss: 3.5345 Epoch Acc: 0.00E+00 Epoch Prob: 8.46E-36 Best Probability: 3.69E-26
+Epoch 122/499 : Mon May  6 08:41:53 2019 - 8h 5m
+----------
+
+train Loss: 1.4395 Epoch Acc: 1.20E-04 Epoch Prob: 3.36E-05 Best Probability: 3.69E-26
+val Loss: 3.7350 Epoch Acc: 0.00E+00 Epoch Prob: 3.19E-46 Best Probability: 3.69E-26
+Epoch 123/499 : Mon May  6 08:45:50 2019 - 8h 9m
+----------
+
+train Loss: 1.4694 Epoch Acc: 8.00E-05 Epoch Prob: 3.45E-05 Best Probability: 3.69E-26
+Model saved
+val Loss: 3.5540 Epoch Acc: 0.00E+00 Epoch Prob: 2.02E-22 Best Probability: 2.02E-22
+Epoch 124/499 : Mon May  6 08:49:47 2019 - 8h 13m
+----------
+
+train Loss: 1.3996 Epoch Acc: 1.20E-04 Epoch Prob: 1.81E-05 Best Probability: 2.02E-22
+val Loss: 3.5938 Epoch Acc: 0.00E+00 Epoch Prob: 1.06E-43 Best Probability: 2.02E-22
+Checkpoint saved
+Epoch 125/499 : Mon May  6 08:53:44 2019 - 8h 17m
+----------
+
+train Loss: 1.3687 Epoch Acc: 1.60E-04 Epoch Prob: 5.06E-05 Best Probability: 2.02E-22
+val Loss: 4.0102 Epoch Acc: 0.00E+00 Epoch Prob: 5.68E-41 Best Probability: 2.02E-22
+Epoch 126/499 : Mon May  6 08:57:42 2019 - 8h 21m
+----------
+
+train Loss: 1.4646 Epoch Acc: 4.00E-05 Epoch Prob: 2.78E-05 Best Probability: 2.02E-22
+val Loss: 3.5360 Epoch Acc: 0.00E+00 Epoch Prob: 5.11E-46 Best Probability: 2.02E-22
+Epoch 127/499 : Mon May  6 09:01:39 2019 - 8h 25m
+----------
+
+train Loss: 1.4102 Epoch Acc: 1.20E-04 Epoch Prob: 2.92E-05 Best Probability: 2.02E-22
+val Loss: 3.6926 Epoch Acc: 0.00E+00 Epoch Prob: 2.10E-44 Best Probability: 2.02E-22
+Epoch 128/499 : Mon May  6 09:05:36 2019 - 8h 29m
+----------
+
+train Loss: 1.3880 Epoch Acc: 1.20E-04 Epoch Prob: 4.72E-05 Best Probability: 2.02E-22
+val Loss: 3.5987 Epoch Acc: 0.00E+00 Epoch Prob: 4.60E-36 Best Probability: 2.02E-22
+Epoch 129/499 : Mon May  6 09:09:32 2019 - 8h 33m
+----------
+
+train Loss: 1.4039 Epoch Acc: 8.00E-05 Epoch Prob: 1.77E-05 Best Probability: 2.02E-22
+val Loss: 3.6286 Epoch Acc: 0.00E+00 Epoch Prob: 4.38E-42 Best Probability: 2.02E-22
+Checkpoint saved
+Epoch 130/499 : Mon May  6 09:13:30 2019 - 8h 37m
+----------
+
+train Loss: 1.4045 Epoch Acc: 1.60E-04 Epoch Prob: 3.99E-05 Best Probability: 2.02E-22
+val Loss: 3.5498 Epoch Acc: 0.00E+00 Epoch Prob: 1.57E-43 Best Probability: 2.02E-22
+Epoch 131/499 : Mon May  6 09:17:28 2019 - 8h 41m
+----------
+
+train Loss: 1.4295 Epoch Acc: 0.00E+00 Epoch Prob: 2.52E-05 Best Probability: 2.02E-22
+val Loss: 3.6079 Epoch Acc: 0.00E+00 Epoch Prob: 2.07E-38 Best Probability: 2.02E-22
+Epoch 132/499 : Mon May  6 09:21:24 2019 - 8h 45m
+----------
+
+train Loss: 1.4061 Epoch Acc: 1.20E-04 Epoch Prob: 6.85E-05 Best Probability: 2.02E-22
+val Loss: 3.6637 Epoch Acc: 0.00E+00 Epoch Prob: 4.62E-45 Best Probability: 2.02E-22
+Epoch 133/499 : Mon May  6 09:25:21 2019 - 8h 49m
+----------
+
+train Loss: 1.4105 Epoch Acc: 8.00E-05 Epoch Prob: 4.50E-05 Best Probability: 2.02E-22
+val Loss: 3.5796 Epoch Acc: 0.00E+00 Epoch Prob: 3.79E-48 Best Probability: 2.02E-22
+Epoch 134/499 : Mon May  6 09:29:18 2019 - 8h 53m
+----------
+
+train Loss: 1.3864 Epoch Acc: 1.60E-04 Epoch Prob: 5.38E-05 Best Probability: 2.02E-22
+val Loss: 3.7236 Epoch Acc: 0.00E+00 Epoch Prob: 1.93E-44 Best Probability: 2.02E-22
+Checkpoint saved
+Epoch 135/499 : Mon May  6 09:33:15 2019 - 8h 57m
+----------
+
+train Loss: 1.3754 Epoch Acc: 8.00E-05 Epoch Prob: 3.16E-05 Best Probability: 2.02E-22
+val Loss: 3.6687 Epoch Acc: 0.00E+00 Epoch Prob: 3.59E-40 Best Probability: 2.02E-22
+Epoch 136/499 : Mon May  6 09:37:12 2019 - 9h 1m
+----------
+
+train Loss: 1.3880 Epoch Acc: 8.00E-05 Epoch Prob: 2.78E-05 Best Probability: 2.02E-22
+val Loss: 3.4660 Epoch Acc: 0.00E+00 Epoch Prob: 6.13E-48 Best Probability: 2.02E-22
+Epoch 137/499 : Mon May  6 09:41:09 2019 - 9h 5m
+----------
+
+train Loss: 1.4036 Epoch Acc: 8.00E-05 Epoch Prob: 3.99E-05 Best Probability: 2.02E-22
+val Loss: 3.7462 Epoch Acc: 0.00E+00 Epoch Prob: 1.24E-35 Best Probability: 2.02E-22
+Epoch 138/499 : Mon May  6 09:45:06 2019 - 9h 9m
+----------
+
+train Loss: 1.3909 Epoch Acc: 1.20E-04 Epoch Prob: 3.35E-05 Best Probability: 2.02E-22
+val Loss: 3.6017 Epoch Acc: 0.00E+00 Epoch Prob: 1.56E-41 Best Probability: 2.02E-22
+Epoch 139/499 : Mon May  6 09:49:03 2019 - 9h 13m
+----------
+
+train Loss: 1.3974 Epoch Acc: 8.00E-05 Epoch Prob: 2.94E-05 Best Probability: 2.02E-22
+val Loss: 3.6323 Epoch Acc: 0.00E+00 Epoch Prob: 4.01E-42 Best Probability: 2.02E-22
+Checkpoint saved
+Epoch 140/499 : Mon May  6 09:53:00 2019 - 9h 16m
+----------
+
+train Loss: 1.3864 Epoch Acc: 8.00E-05 Epoch Prob: 3.02E-05 Best Probability: 2.02E-22
+val Loss: 3.5474 Epoch Acc: 0.00E+00 Epoch Prob: 5.28E-36 Best Probability: 2.02E-22
+Epoch 141/499 : Mon May  6 09:56:59 2019 - 9h 20m
+----------
+
+train Loss: 1.5837 Epoch Acc: 0.00E+00 Epoch Prob: 8.46E-06 Best Probability: 2.02E-22
+val Loss: 3.6225 Epoch Acc: 0.00E+00 Epoch Prob: 6.54E-45 Best Probability: 2.02E-22
+Epoch 142/499 : Mon May  6 10:01:14 2019 - 9h 25m
+----------
+
+train Loss: 1.3387 Epoch Acc: 8.00E-05 Epoch Prob: 5.19E-05 Best Probability: 2.02E-22
+val Loss: 3.6526 Epoch Acc: 0.00E+00 Epoch Prob: 3.28E-36 Best Probability: 2.02E-22
+Epoch 143/499 : Mon May  6 10:05:39 2019 - 9h 29m
+----------
+
+train Loss: 1.3819 Epoch Acc: 8.00E-05 Epoch Prob: 3.37E-05 Best Probability: 2.02E-22
+val Loss: 3.7119 Epoch Acc: 0.00E+00 Epoch Prob: 4.88E-39 Best Probability: 2.02E-22
+Epoch 144/499 : Mon May  6 10:09:59 2019 - 9h 33m
+----------
+
+train Loss: 1.3775 Epoch Acc: 8.00E-05 Epoch Prob: 2.63E-05 Best Probability: 2.02E-22
+val Loss: 3.4732 Epoch Acc: 0.00E+00 Epoch Prob: 8.65E-44 Best Probability: 2.02E-22
+Checkpoint saved
+Epoch 145/499 : Mon May  6 10:14:18 2019 - 9h 38m
+----------
+
+train Loss: 1.3549 Epoch Acc: 1.60E-04 Epoch Prob: 2.95E-05 Best Probability: 2.02E-22
+val Loss: 3.6242 Epoch Acc: 0.00E+00 Epoch Prob: 5.44E-41 Best Probability: 2.02E-22
+Epoch 146/499 : Mon May  6 10:18:35 2019 - 9h 42m
+----------
+
+train Loss: 1.3738 Epoch Acc: 8.00E-05 Epoch Prob: 3.28E-05 Best Probability: 2.02E-22
+val Loss: 3.5873 Epoch Acc: 0.00E+00 Epoch Prob: 9.80E-38 Best Probability: 2.02E-22
+Epoch 147/499 : Mon May  6 10:22:52 2019 - 9h 46m
+----------
+
+train Loss: 1.3590 Epoch Acc: 8.00E-05 Epoch Prob: 6.22E-05 Best Probability: 2.02E-22
+val Loss: 3.9371 Epoch Acc: 0.00E+00 Epoch Prob: 1.89E-38 Best Probability: 2.02E-22
+Epoch 148/499 : Mon May  6 10:27:08 2019 - 9h 51m
+----------
+
+train Loss: 1.3604 Epoch Acc: 4.00E-05 Epoch Prob: 3.24E-05 Best Probability: 2.02E-22
+val Loss: 3.7531 Epoch Acc: 0.00E+00 Epoch Prob: 2.00E-34 Best Probability: 2.02E-22
+Epoch 149/499 : Mon May  6 10:31:24 2019 - 9h 55m
+----------
+
+train Loss: 1.3746 Epoch Acc: 4.00E-05 Epoch Prob: 8.92E-06 Best Probability: 2.02E-22
+val Loss: 3.5504 Epoch Acc: 0.00E+00 Epoch Prob: 5.79E-45 Best Probability: 2.02E-22
+Checkpoint saved
+Epoch 150/499 : Mon May  6 10:35:40 2019 - 9h 59m
+----------
+
+train Loss: 1.4252 Epoch Acc: 4.00E-05 Epoch Prob: 2.70E-05 Best Probability: 2.02E-22
+val Loss: 3.6358 Epoch Acc: 0.00E+00 Epoch Prob: 1.32E-36 Best Probability: 2.02E-22
+Epoch 151/499 : Mon May  6 10:39:58 2019 - 10h 3m
+----------
+
+train Loss: 1.4519 Epoch Acc: 8.00E-05 Epoch Prob: 3.03E-05 Best Probability: 2.02E-22
+val Loss: 3.4792 Epoch Acc: 0.00E+00 Epoch Prob: 1.48E-39 Best Probability: 2.02E-22
+Epoch 152/499 : Mon May  6 10:44:29 2019 - 10h 8m
+----------
+
+train Loss: 1.3131 Epoch Acc: 4.00E-05 Epoch Prob: 3.66E-05 Best Probability: 2.02E-22
+val Loss: 3.4912 Epoch Acc: 0.00E+00 Epoch Prob: 6.52E-43 Best Probability: 2.02E-22
+Epoch 153/499 : Mon May  6 10:49:11 2019 - 10h 13m
+----------
+
+train Loss: 1.3249 Epoch Acc: 4.00E-05 Epoch Prob: 1.75E-05 Best Probability: 2.02E-22
+val Loss: 3.5452 Epoch Acc: 0.00E+00 Epoch Prob: 3.39E-46 Best Probability: 2.02E-22
